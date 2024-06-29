@@ -4,20 +4,21 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/LeoMiguelSeda/WD-Seatwork4">
-  <img src="./assets/img/Profile.png" alt="Profile" width="300" height="400">
+  <a href="https://github.com/Mhikee-lo/WD-Sevilleja_HandsOn2">
+  <img src="./assets/img/Me.jpg" alt="Profile" width="300" height="400">
   </a>
 
   <h3 align="center">Seatwork 4</h3>
 </div>
+
 <div align="center">
-  Creating Feature Pages
+  
 </div>
 
 <br />
 
 
-![](https://visit-counter.vercel.app/counter.png?page=LeoMiguelSeda/WD-Seatwork4)
+![](https://visit-counter.vercel.app/counter.png?page=Mhikee-lo/WD-Seatwork_4)
 
 ---
 
@@ -45,9 +46,6 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
-    <li>
-      <a href="#deployment">Deployment Link</a>
-    </li>
   </ol>
 </details>
 
@@ -56,25 +54,25 @@
 ## Overview
 
 
-<!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- Creating a features page
+
+- Hands-On 2
+- To create hero & card display website
 
 
 ### Key Components
 
-<!-- The following are just sample -->
+
 - MultiPage Website/Single Page Website
 - Parallax transition
 - Transactional
 
 ### Technology
-
+<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -112,11 +110,12 @@ WD-ProjectName
 
 ## Resources
 
-
+<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Creating Responsive CSS Cards | To have an idea to creating a features card page |https://youtu.be/9FNNkzPBFcE |
-| How to Create A Navigation Bar using HTML and CSS | For creating the Navigation Bar |https://youtu.be/-Yw9gBHE60E |
+| Creating Responsive CSS Cards | Card Design HTM & CSS | To have an idea on how to create responsive CSS cards | https://www.youtube.com/watch?v=9FNNkzPBFcE |
+| CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021 | How to create hover effect | https://www.youtube.com/watch?v=qXRYMdvq_Dc |
+| Helps me | To guide me while doing the code | https://github.com/LeoMiguelSeda
 
 ## Deployment:
-https://leomiguelseda.github.io/WD-Seatwork4/
+
