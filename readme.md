@@ -113,8 +113,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Creating Responsive CSS Cards | Card Design HTM & CSS | To have an idea on how to create responsive CSS cards | https://www.youtube.com/watch?v=9FNNkzPBFcE |
-| CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021 | How to create hover effect | https://www.youtube.com/watch?v=qXRYMdvq_Dc |
+| Creating Responsive CSS Cards | To have an idea on how to create responsive CSS cards | https://www.youtube.com/watch?v=9FNNkzPBFcE |
+| CSS Responsive Card & Hover Effects with Flexbox | How to create hover effect | https://www.youtube.com/watch?v=qXRYMdvq_Dc |
 | Helps me | To guide me while doing the code | https://github.com/LeoMiguelSeda
 
 ## Deployment:
